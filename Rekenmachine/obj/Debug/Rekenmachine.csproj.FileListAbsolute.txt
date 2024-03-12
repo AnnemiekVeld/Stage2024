@@ -1,0 +1,10 @@
+C:\Users\velda\source\repos\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.exe.config
+C:\Users\velda\source\repos\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.exe
+C:\Users\velda\source\repos\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.pdb
+C:\Users\velda\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.AssemblyReference.cache
+C:\Users\velda\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.Form1.resources
+C:\Users\velda\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.Properties.Resources.resources
+C:\Users\velda\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.GenerateResource.cache
+C:\Users\velda\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\velda\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.exe
+C:\Users\velda\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.pdb
